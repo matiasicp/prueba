@@ -1,1 +1,7 @@
 I am on my way to passing the Cisco DEVASC exam
+
+Dispositivo: Switch - SW-ACCESO-UNO
+IP: 192.168.20.10 | VLANs: 20
+Jerarquía: Acceso
+Servicios: VLAN, Impresion, Servicios., 5
+------------------------------

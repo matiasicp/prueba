@@ -1,1 +1,7 @@
 I am on my way to passing the Cisco DEVASC exam
+
+Dispositivo: Switch Multicapa - SW-BACKBONE-MATRIZ
+IP: 192.168.20.1 | VLANs: 10,20,30
+Jerarquía: Distribución
+Servicios: Enrutamiento, Trunking, Inter-VLAN.
+------------------------------

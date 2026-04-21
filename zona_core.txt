@@ -1,1 +1,7 @@
 I am on my way to passing the Cisco DEVASC exam
+
+Dispositivo: Router - RTR-MATRIZ-EDGE
+IP: acad:da:fe:30::1 | VLANs: 1
+Jerarquía: Núcleo
+Servicios: Dual-Stack, VPN Site-to-Site, OSPF.
+------------------------------
